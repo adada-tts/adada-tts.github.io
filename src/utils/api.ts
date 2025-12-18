@@ -1,4 +1,4 @@
-const endpoint = "https://sd51674l7te8vf01j6r80.apigateway-cn-beijing.volceapi.com/tts";
+const endpoint = "https://sd51s8tlh74m0t5ldvn9g.apigateway-cn-beijing.volceapi.com/tts";
 
 // TTS API请求参数类型
 export interface TTSRequestParams {
